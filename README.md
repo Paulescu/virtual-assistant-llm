@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>Build a virtual assistant using real-time LLMs with Pathway</h1>
-    <img src="./media/diagram.jpg" width='450' />
+    <img src="./media/pathway.gif" width='450' />
 </div>
 
 #### Table of contents
